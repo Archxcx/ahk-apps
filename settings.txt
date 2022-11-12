@@ -1,0 +1,11 @@
+info::
+	Server = https://discord.gg/B8jHeSQXJQ
+	User = ixy#5912
+
+delete::
+
+disable::
+	
+App versions::
+	Chichiya Cracker = 1.0
+========== END ==========
