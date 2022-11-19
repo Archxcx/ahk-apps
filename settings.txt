@@ -8,4 +8,7 @@ disable::
 	
 App versions::
 	Chichiya Cracker = 1.0
+
+timer::
+	Chichiya Cracker = 1672502400
 ========== END ==========
