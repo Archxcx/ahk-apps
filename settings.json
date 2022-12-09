@@ -4,7 +4,7 @@
 	"User": "ixy#5912"
     },
     "Launcher": {
-        "Version": "dev_1",
+        "Version": "dev_2",
         "SilentUpdate": "false",
         "TemporaryAccess": [
 	    "Trawler1",
@@ -28,7 +28,7 @@
         "BerryCrepe": {
         },
         "Announcement": [
-            "[09/12/22] Dev Build 1\n- First public testing build. This includes just arroz for testing purposes and at request, Trawler and Poop Pie. All other functionality has been disabled for now."
+            "[09/12/22] Dev Build 2\n- Changed Webdings font to temporary Verdana\n\n[09/12/22] Dev Build 1\n- First public testing build. This includes just arroz for testing purposes and at request, Trawler and Poop Pie. All other functionality has been disabled for now."
         ]
     }
 }
