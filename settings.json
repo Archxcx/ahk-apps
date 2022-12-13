@@ -4,10 +4,11 @@
 	"User": "ixy#5912"
     },
     "Launcher": {
-        "Version": "dev_5",
+        "Version": "dev_6",
         "SilentUpdate": "false",
         "TemporaryAccess": [
             "PoopPie1",
+	    "Trawler1"
         ],
         "Blacklist": {
         },
@@ -26,7 +27,7 @@
         "BerryCrepe": {
         },
         "Announcement": [
-            "[11/12/22] Dev Build 5\n - Fixed Set Coordinates and Auto Buff both now works.\n\n[11/12/22] Dev Build 4\n- Fixed some more issues like not running, wrong coordinates, and when you press stop it doesnt run again.\n\n[09/12/22] Dev Build 3\n- Fixed some stuff i overlooked, Auto Arroz disabled and Poop Pie works with 30 ovens 100%.\nI know buttons are aligned i am too lazy to fix them right now. \n\n[09/12/22] Dev Build 2\n- Changed Webdings font to temporary Verdana\n\n[09/12/22] Dev Build 1\n- First public testing build. This includes just arroz for testing purposes and at request, Trawler and Poop Pie. All other functionality has been disabled for now."
+            "[13/12/22] Dev Build 6\n- Auto trawler 1 account added, Buff timer added, Remove tooltip when app window not in focus\n\n[11/12/22] Dev Build 5\n - Fixed Set Coordinates and Auto Buff both now works.\n\n[11/12/22] Dev Build 4\n- Fixed some more issues like not running, wrong coordinates, and when you press stop it doesnt run again.\n\n[09/12/22] Dev Build 3\n- Fixed some stuff i overlooked, Auto Arroz disabled and Poop Pie works with 30 ovens 100%.\nI know buttons are aligned i am too lazy to fix them right now. \n\n[09/12/22] Dev Build 2\n- Changed Webdings font to temporary Verdana\n\n[09/12/22] Dev Build 1\n- First public testing build. This includes just arroz for testing purposes and at request, Trawler and Poop Pie. All other functionality has been disabled for now."
         ]
     }
 }
