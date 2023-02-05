@@ -9,9 +9,11 @@
         "TemporaryAccess": [
             "PoopPie1",
             "Trawler1",
-            "Arroz",
 			"BerryCrepe"
         ],
+        "Arroz": {
+            "sxx:6855":"03000200-0400-0500-0006-000700080009"
+        },
         "Blacklist": {
         },
         "Announcement": [
